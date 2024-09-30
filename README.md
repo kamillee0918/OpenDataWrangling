@@ -140,6 +140,5 @@
 	* [ 서울시 업무추진비 | 부서별 집행 현황 | 서울시 정보소통광장(정보공개)](http://opengov.seoul.go.kr/expense)
 	* github : https://github.com/seoul-opengov/opengov 
 
-
 ## PyCon KR 2018 튜토리얼 노트북
 * https://goo.gl/x8kasp
